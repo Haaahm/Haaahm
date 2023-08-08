@@ -3,7 +3,6 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Haaahm, a Data Analyst 📊 working remotely since 2023🌱</div>  
   
 
