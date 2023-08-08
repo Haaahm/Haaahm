@@ -7,8 +7,6 @@
 
 ### <div align="center">I'm Haaahm, a Data Analyst 👨‍💻 working remotely since 2023 🚀</div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Haaahm/github-profilinator)  
   
 
 - 🌱 I’m currently learning ML  
